@@ -1,0 +1,127 @@
+.caresol {
+  color: black;
+  margin-left: -90px;
+}
+.Headerr {
+  display: flex;
+  color: black;
+}
+.home {
+  padding-left: 200px;
+}
+.personal {
+  padding-left: 200px;
+}
+.snacks {
+  padding-left: 200px;
+}
+.beverages {
+  padding-left: 150px;
+}
+
+.category {
+  display: flex;
+  color: black;
+}
+.cat {
+  margin-top: 20px;
+}
+.ImageOne {
+  float: left;
+}
+.ImageTwo {
+  float: left;
+  margin-top: 100px;
+  margin-left: -125px;
+
+  padding-top: 20px;
+}
+.colorr {
+  background-color: lightblue;
+  margin-bottom: -40px;
+  padding-left: 200px;
+  height: 90px;
+  width: 1390px;
+  margin-top: -10px;
+  margin-left: -20px;
+  margin-right: -18px;
+  margin-bottom: 30px;
+}
+.brand {
+  padding-top: 40px;
+  margin-left: -140px;
+}
+.userInfo {
+  margin-left: -20px;
+}
+.carItem {
+  display: flex;
+  height: 630px;
+}
+.car {
+  padding-right: 30px;
+  height: 100px;
+  width: 250px;
+}
+.car1 {
+  padding-right: 30px;
+  height: 100px;
+  width: 250px;
+}
+.advertise {
+  display: flex;
+  margin-top: -10px;
+  margin-left: -15px;
+}
+.brandComp {
+  padding-top: 30px;
+}
+.categoryComp {
+  padding-top: 30px;
+}
+.side {
+  margin-left: -30px;
+}
+.footer-body {
+  background-color: lightblue;
+  height: 200px;
+  display: flex;
+}
+.footer {
+  color: black;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-left: 700px;
+}
+.sample {
+  padding-top: 50px;
+  margin-bottom: -70px;
+}
+.About-us {
+  margin-right: -20px;
+  margin-left: -30px;
+}
+.bread {
+  height: 20px;
+}
+.desc {
+  padding-top: 100px;
+}
+.copy {
+  padding-top: 150px;
+  margin-left: -500px;
+}
+.cate {
+  padding-left: 100px;
+  padding-top: 20px;
+}
+.advertise {
+  margin-top: -120px;
+}
+.lat {
+  padding-top: 19px;
+}
+.add {
+  padding-top: 135px;
+  margin-left: -15px;
+}
